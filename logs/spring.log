@@ -1,0 +1,289 @@
+2021-11-29 00:00:44.318 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35760
+2021-11-29 00:00:44.449  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:01:04.471 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47384
+2021-11-29 00:01:09.339 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44856
+2021-11-29 00:02:44.257  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:02:44.300 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44682
+2021-11-29 00:03:35.586 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52304
+2021-11-29 00:03:35.591  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:03:38.057 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58886
+2021-11-29 00:04:44.394 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40696
+2021-11-29 00:04:44.396  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:06:04.370 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58190
+2021-11-29 00:06:10.376 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36344
+2021-11-29 00:06:44.196 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39542
+2021-11-29 00:06:44.283  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:07:35.538 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59170
+2021-11-29 00:07:35.543  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:08:37.824 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57758
+2021-11-29 00:08:44.260 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56338
+2021-11-29 00:08:44.261  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:10:44.170 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56240
+2021-11-29 00:10:44.269  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:11:04.378 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56730
+2021-11-29 00:11:09.462 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58076
+2021-11-29 00:11:35.505  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:11:35.505 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36604
+2021-11-29 00:12:44.244  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:12:44.278 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59986
+2021-11-29 00:13:21.256  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:13:38.106 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56722
+2021-11-29 00:14:44.376 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52784
+2021-11-29 00:14:44.440  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:15:35.877 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:38562
+2021-11-29 00:15:35.920  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:16:04.700 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:42114
+2021-11-29 00:16:09.402 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58626
+2021-11-29 00:16:44.223 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41320
+2021-11-29 00:16:44.260  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:18:37.789 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35880
+2021-11-29 00:18:44.328 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35940
+2021-11-29 00:18:44.330  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:19:35.742 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55274
+2021-11-29 00:19:35.744  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:20:44.381 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59328
+2021-11-29 00:20:44.392  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:21:04.340 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46774
+2021-11-29 00:21:09.530 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47198
+2021-11-29 00:22:44.406 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36642
+2021-11-29 00:22:44.477  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:23:35.487  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:23:35.492 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37234
+2021-11-29 00:23:37.918 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44708
+2021-11-29 00:24:44.447  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:24:44.459 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56362
+2021-11-29 00:26:04.365 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41490
+2021-11-29 00:26:09.816 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48260
+2021-11-29 00:26:44.270 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47408
+2021-11-29 00:26:44.280  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:27:35.599  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:27:35.600 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37090
+2021-11-29 00:28:37.717 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:38242
+2021-11-29 00:28:44.127 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46958
+2021-11-29 00:28:44.136  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:30:44.192  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:30:44.197 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36532
+2021-11-29 00:31:04.378 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48122
+2021-11-29 00:31:09.743 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39020
+2021-11-29 00:31:30.391  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:31:35.531  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:31:35.535 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49378
+2021-11-29 00:32:44.289  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:32:44.299 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58874
+2021-11-29 00:33:37.713 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46936
+2021-11-29 00:34:23.089 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43562
+2021-11-29 00:34:44.478  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:34:44.480 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58622
+2021-11-29 00:35:35.560  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:35:35.561 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54960
+2021-11-29 00:36:04.352 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37746
+2021-11-29 00:36:09.560 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44726
+2021-11-29 00:36:44.220 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52380
+2021-11-29 00:36:44.235  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:38:37.928 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39596
+2021-11-29 00:38:38.756  INFO 172 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.18.0.1:59886 -- CloseStatus[code=1006, reason=]
+2021-11-29 00:38:38.756  INFO 172 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-11-29 00:38:44.377  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:38:44.379 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45670
+2021-11-29 00:39:20.667 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60914
+2021-11-29 00:39:35.550  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:39:35.784 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57034
+2021-11-29 00:40:44.288 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:42674
+2021-11-29 00:40:44.293  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:40:46.508  INFO 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.18.0.1:34822
+2021-11-29 00:40:46.519  INFO 172 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-11-29 00:41:04.312 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35654
+2021-11-29 00:41:09.313 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49166
+2021-11-29 00:42:44.240 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45342
+2021-11-29 00:42:44.276  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:43:35.844 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43850
+2021-11-29 00:43:35.845  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:43:38.693 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36388
+2021-11-29 00:44:20.776 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37010
+2021-11-29 00:44:44.632  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:44:44.729 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52248
+2021-11-29 00:46:04.359 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36412
+2021-11-29 00:46:09.349 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54316
+2021-11-29 00:46:44.389 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56036
+2021-11-29 00:46:44.390  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:47:35.640  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:47:35.641 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33698
+2021-11-29 00:48:37.924 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34178
+2021-11-29 00:48:44.249  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:48:44.250 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58202
+2021-11-29 00:50:03.729 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50912
+2021-11-29 00:50:44.340 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52920
+2021-11-29 00:50:44.339  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:51:04.377 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45062
+2021-11-29 00:51:09.423 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48912
+2021-11-29 00:51:35.612 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45914
+2021-11-29 00:51:35.616  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:52:44.153  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:52:44.234 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51218
+2021-11-29 00:53:37.708 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49514
+2021-11-29 00:54:44.328 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60750
+2021-11-29 00:54:44.331  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:55:13.242 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52936
+2021-11-29 00:55:36.075  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:55:36.076 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40434
+2021-11-29 00:56:04.386 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52788
+2021-11-29 00:56:09.348 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50752
+2021-11-29 00:56:17.340  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:56:44.300  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:56:44.300 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54950
+2021-11-29 00:58:37.749 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58260
+2021-11-29 00:58:44.256 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59106
+2021-11-29 00:58:44.265  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:59:35.777  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 00:59:35.783 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47126
+2021-11-29 01:00:44.440  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:00:44.440 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46496
+2021-11-29 01:00:55.420 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45264
+2021-11-29 01:01:04.571 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35084
+2021-11-29 01:01:09.356 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36600
+2021-11-29 01:02:44.773 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52274
+2021-11-29 01:02:44.812  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:03:35.606  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:03:35.652 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54232
+2021-11-29 01:03:38.163 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51858
+2021-11-29 01:04:44.182  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:04:44.196 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:32782
+2021-11-29 01:05:38.993 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43070
+2021-11-29 01:06:04.430 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45048
+2021-11-29 01:06:09.722 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53778
+2021-11-29 01:06:44.216  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:06:44.237 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50114
+2021-11-29 01:07:35.618  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:07:35.622 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53112
+2021-11-29 01:08:37.716 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43446
+2021-11-29 01:08:44.154  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:08:44.162 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51930
+2021-11-29 01:09:33.757 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59804
+2021-11-29 01:10:44.349  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:10:44.349 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51168
+2021-11-29 01:10:51.395  INFO 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.18.0.1:33158
+2021-11-29 01:10:51.402  INFO 172 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-11-29 01:11:04.448 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51262
+2021-11-29 01:11:09.484 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51692
+2021-11-29 01:11:35.601 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58130
+2021-11-29 01:11:35.604  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:12:44.373  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:12:44.378 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40200
+2021-11-29 01:13:37.823 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60970
+2021-11-29 01:14:22.077 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34444
+2021-11-29 01:14:44.727  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:14:44.730 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34158
+2021-11-29 01:15:36.649 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45920
+2021-11-29 01:15:36.655  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:15:55.380 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47054
+2021-11-29 01:16:04.686 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55412
+2021-11-29 01:16:10.299 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53896
+2021-11-29 01:16:44.271  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:16:44.276 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36602
+2021-11-29 01:18:12.126  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:18:44.305 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50238
+2021-11-29 01:18:44.306  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:19:21.879 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60422
+2021-11-29 01:19:35.768 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51320
+2021-11-29 01:19:35.785  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:20:44.300 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60252
+2021-11-29 01:20:44.364  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:20:54.356 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45962
+2021-11-29 01:21:04.499 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54118
+2021-11-29 01:21:09.717 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48080
+2021-11-29 01:22:44.539 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39298
+2021-11-29 01:22:44.563  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:23:35.737 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37678
+2021-11-29 01:23:35.739  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:24:44.340  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:24:44.516 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59686
+2021-11-29 01:25:54.523 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:38154
+2021-11-29 01:26:04.463 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49308
+2021-11-29 01:26:09.336 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55118
+2021-11-29 01:26:44.513 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41596
+2021-11-29 01:26:44.537  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:27:36.261  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:27:36.306 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51290
+2021-11-29 01:28:44.178 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57108
+2021-11-29 01:28:44.179  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:30:44.152 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47966
+2021-11-29 01:30:44.191  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:30:54.386 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52770
+2021-11-29 01:31:04.442 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53172
+2021-11-29 01:31:09.860 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56458
+2021-11-29 01:31:35.829  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:31:35.845 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41854
+2021-11-29 01:32:44.509 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43170
+2021-11-29 01:32:44.535  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:34:44.890 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43842
+2021-11-29 01:34:44.894  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:35:35.794 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49300
+2021-11-29 01:35:35.809  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:35:54.416 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56346
+2021-11-29 01:35:55.716  INFO 172 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.18.0.1:33158 -- CloseStatus[code=1006, reason=]
+2021-11-29 01:35:55.721  INFO 172 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-11-29 01:36:04.539 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60828
+2021-11-29 01:36:10.051 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50802
+2021-11-29 01:36:44.113 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40922
+2021-11-29 01:36:44.148  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:38:44.500  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:38:44.500 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40372
+2021-11-29 01:39:35.682 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60082
+2021-11-29 01:39:35.683  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:40:32.356  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:40:44.173 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45566
+2021-11-29 01:40:44.263  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:40:47.414  INFO 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.18.0.1:43430
+2021-11-29 01:40:47.438  INFO 172 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-11-29 01:40:54.632 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48124
+2021-11-29 01:41:04.438 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55990
+2021-11-29 01:41:09.385 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33966
+2021-11-29 01:42:44.282 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49818
+2021-11-29 01:42:44.288  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:43:35.736 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50236
+2021-11-29 01:43:35.740  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:44:44.338 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:37368
+2021-11-29 01:44:44.370  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:45:54.397 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60920
+2021-11-29 01:46:04.488 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35864
+2021-11-29 01:46:09.612 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39530
+2021-11-29 01:46:44.344 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39830
+2021-11-29 01:46:44.401  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:47:35.719 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44656
+2021-11-29 01:47:35.726  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:48:44.125  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:48:44.130 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59148
+2021-11-29 01:50:44.217 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47228
+2021-11-29 01:50:44.221  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:50:54.800 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60268
+2021-11-29 01:51:04.439 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60774
+2021-11-29 01:51:09.967 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49558
+2021-11-29 01:51:35.876 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56468
+2021-11-29 01:51:35.886  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:52:44.186 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60178
+2021-11-29 01:52:44.271  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:54:44.409 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58270
+2021-11-29 01:54:44.414  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:55:35.729 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36426
+2021-11-29 01:55:35.766  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:55:54.352 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50788
+2021-11-29 01:56:04.411 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59534
+2021-11-29 01:56:09.424 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54684
+2021-11-29 01:56:44.167  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:56:44.209 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45908
+2021-11-29 01:58:44.180 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:42708
+2021-11-29 01:58:44.191  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 01:59:35.591 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58608
+2021-11-29 01:59:35.597  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:00:44.295 ERROR 172 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47718
+2021-11-29 02:00:44.298  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:00:54.360 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51828
+2021-11-29 02:01:04.491 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54088
+2021-11-29 02:01:09.722 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33118
+2021-11-29 02:02:05.319  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:02:44.348  WARN 172 --- [XNIO-1 task-4] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:02:44.351 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39876
+2021-11-29 02:03:35.880 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43334
+2021-11-29 02:03:35.888  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:04:44.371  WARN 172 --- [XNIO-1 task-2] l.s.config.RequestAuthorizationFilter    : Authorization missing for 172.18.0.1 on GET /version
+2021-11-29 02:04:44.393 ERROR 172 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53536
